@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Music-Streaming-Audio-Player/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Music-Streaming-Audio-Player?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Music-Streaming-Audio-Player/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Music-Streaming-Audio-Player?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Music-Streaming-Audio-Player/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Music-Streaming-Audio-Player?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Music-Streaming-Audio-Player/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -68,9 +68,9 @@ The table below lists leading commercial music streaming services, sorted descen
 
 ## 💻 Open-Source GitHub Projects
 
-The following table lists top open-source media streaming servers, audiophile desktop players, Subsonic clients, and audio engine libraries. Every repository is sorted descending by **GitHub Star Count** and accompanied by a clickable white social star badge linking to its official stargazers page.
+The following table lists top open-source media streaming servers, audiophile desktop players, Subsonic clients, and audio engine libraries. Every repository is sorted descending by **GitHub Stars_Count** and accompanied by a clickable white social Stars_Badge linking to its official stargazers page.
 
-| 🚀 Repository | ⭐ Star Badge | 📖 Description |
+| 🚀 Repository | ⭐ Stars_Badge | 📖 Description |
 | :--- | :--- | :--- |
 | **[Jellyfin](https://github.com/jellyfin/jellyfin)** | <a href="https://github.com/jellyfin/jellyfin/stargazers"><img src="https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white" alt="Jellyfin Stars"/></a> | The premier volunteer-built free software media server; serves lossless music libraries, smart playlists, lyrics, and metadata to web, desktop, and mobile clients. |
 | **[Spotube](https://github.com/team-spotube/spotube)** | <a href="https://github.com/team-spotube/spotube/stargazers"><img src="https://img.shields.io/github/stars/team-spotube/spotube?style=social&color=white" alt="Spotube Stars"/></a> | Lightweight, cross-platform music streaming client combining Spotify playlists and recommendations with YouTube/Piped audio streams without telemetry. |
@@ -121,7 +121,7 @@ We welcome additions, fixes, and updates from the community!
 
 1. 🍴 **Fork the repository** to your personal GitHub account.
 2. 🌿 **Create a new branch** (`git checkout -b add-audio-project`).
-3. 📝 **Add your project** in the appropriate table, including official links, pricing details, and star counts.
+3. 📝 **Add your project** in the appropriate table, including official links, pricing details, and Stars_Counts.
 4. 🚀 **Commit your changes** (`git commit -m 'Add new audio player project'`).
 5. 📬 **Submit a Pull Request** with a concise description of the software.
 
